@@ -1,6 +1,6 @@
 # connected
 **Connected** helps a **group of friends** or **members of a family** stay connected without having to rely on proprietary 
-tools which are either not free or full of advertising and most importantly, collect information about their users.
+tools and apps which are either not free or full of advertising and most importantly, collect extensive information about their users.
 
 Connected keeps ownership of the data and communication within the group and also guarantees privacy and data protection.
 
@@ -10,8 +10,8 @@ The first can be avoided by regular backups, the second by enforcing strong pass
 
 ## Planned Features
 - Live chat
+- Chat groups
 - Messages
 - Surveys
-- Chat groups
 - Photos and photo collections 
-
+- Address book
