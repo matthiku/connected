@@ -15,3 +15,4 @@ The first can be avoided by regular backups, the second by enforcing strong pass
 - Surveys
 - Photos and photo collections 
 - Address book
+- Event planning
