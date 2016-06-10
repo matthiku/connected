@@ -13,6 +13,5 @@ The first can be avoided by regular backups, the second by enforcing strong pass
 - Messages
 - Surveys
 - Chat groups
-- Photos and photo collections
-- 
+- Photos and photo collections 
 
